@@ -1,0 +1,21 @@
+{
+  "name": "zadanie13_9",
+  "version": "1.0.0",
+  "description": "Zadanie 13.9 - projekt strony do uploadowania plików",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "projekt",
+    "node",
+    "upload"
+  ],
+  "author": "baku171",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "formidable": "^1.1.1"
+  }
+}
